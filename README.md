@@ -5,4 +5,4 @@ A project to learn Room Databases, Entity and Dao better.
 The source of this project are from Dunijet Academy.
 
 # More
-Please, check the codes and enjoi!
+Please, check the codes and enjoy!
