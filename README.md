@@ -2,7 +2,7 @@
 A project to learn Room Databases, Entity and Dao better.
 
 # Source
-The source of this project are from Dunijet Academy.
+The sources of this project are from Dunijet Academy.
 
 # More
 Please, check the `master` (branch) and enjoy!
